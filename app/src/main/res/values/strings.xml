@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Week4</string>
+
+    <string name="mars_estate">Mars Estate</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="html_text"><![CDATA[
+        <font color=#FFFFFF>Let\'s Explore the</font>
+        <font color=#F9AD1A>Solar System</font>
+        <font color=#FFFFFF>with </font>
+        <font color=#F9AD1A>Explorer</font>]]>
+    </string>
+    <string name="you_can_be_martian_too_coming_soon">You can be martian too… Coming soon</string>
+    <string name="_498547">498547</string>
+    <string name="_65_00">65.00</string>
+    <string name="for_sale">For Sale</string>
+
+</resources>

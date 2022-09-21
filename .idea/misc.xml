@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/drawable-v24/location_icon.xml" value="0.1" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/drawable-v24/usd_logo.xml" value="0.1" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/drawable/constraint_background.xml" value="0.1" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/font/lora_bold.xml" value="0.1" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/font/nunito_extrabold.xml" value="0.1" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/font/open_sans_bold.xml" value="0.1" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/layout/fragment_product.xml" value="0.264" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/layout/fragment_recycler_view.xml" value="0.16" />
+        <entry key="..\:/Users/samet/Desktop/fmss/week4/Samed_HOPA_Odev_Week4/app/src/main/res/layout/recycler_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
